@@ -26,7 +26,7 @@
 ## - MAIN COMMAND
 
 ```bash
-git clone https://github.com/Saureyy/INSTAxyz
+git clone https://github.com/saureyyxyz/INSTAxyz
 ```
 ```bash
 cd INSTAxyz
