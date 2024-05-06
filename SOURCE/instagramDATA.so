@@ -1,0 +1,6 @@
+import os
+print('\033[1;37m———————————————————————————————\x1b[1;97m')
+print("\33[1;96m>>\x1b[1;97m SOON!!❤️")
+print("\33[1;96m>>\x1b[1;97m FOLLOW MY GITHUB ACCOUNT!!❤️")
+print("\33[1;96m>>\x1b[1;97m GIVE STAR TO ALL RESIPTORY!!❤️")
+os.system('xdg-open https://www.github.com/Saureyy')
