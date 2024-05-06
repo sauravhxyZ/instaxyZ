@@ -32,7 +32,7 @@ git clone https://github.com/Saureyy/INSTAxyz
 cd INSTAxyz
 ```
 ```bash
-python SAURAV.py
+python saureyy.py
 ```
 
 ## - SAMPLE
