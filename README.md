@@ -26,10 +26,10 @@
 ## - MAIN COMMAND
 
 ```bash
-git clone https://github.com/Saureyy/INSTA
+git clone https://github.com/Saureyy/INSTAxyz
 ```
 ```bash
-cd INSTA
+cd INSTAxyz
 ```
 ```bash
 python SAURAV.py
