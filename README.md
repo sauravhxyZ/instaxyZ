@@ -50,7 +50,7 @@ pip install rich
 Clone the project repository to your local machine:
 
 ```sh
-git clone https://github.com/sauravhxyZ/INSTA.git
+git clone https://github.com/sauravhxyZ/instaxyZ.git
 ```
 
 ### Step 3: Navigate to the Project Directory
@@ -58,7 +58,7 @@ git clone https://github.com/sauravhxyZ/INSTA.git
 Move into the INSTA project directory:
 
 ```sh
-cd INSTA
+cd instaxyZ
 ```
 
 ### Step 4: Execute the Main Script
