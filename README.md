@@ -66,7 +66,7 @@ cd instaxyZ
 Run the main Python script to start the application:
 
 ```sh
-python saureyy.py
+python xyZ.py
 ```
 
 ---
