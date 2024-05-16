@@ -41,7 +41,7 @@ Finally, install the required Python libraries:
 ```sh
 pip install requests
 pip install mechanize
-pip install bs4
+pip install stdiomask
 pip install rich
 ```
 
